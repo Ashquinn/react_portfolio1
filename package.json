@@ -1,5 +1,6 @@
 {
-  "name": "react-portfolio",
+  "homepage": "https://Ashquinn.github.io/react_portfolio",
+  "name": "react_portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -15,7 +16,6 @@
     "web-vitals": "^1.1.2"
   },
   "scripts": {
-    "homepage": "https://Ashquinn.github.io/react_portfolio",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
