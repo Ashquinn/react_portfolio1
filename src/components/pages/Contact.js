@@ -37,7 +37,7 @@ class Contact extends React.Component {
       <section id="contact" class="contact">
         <div class="container">
           <div class="section-title">
-            <h2>Contact</h2>
+            <h1>Contact</h1>
             <p>Like to reach out? Contact me from the form below and watch out for an email!
             </p>
           </div>
@@ -60,7 +60,7 @@ class Contact extends React.Component {
                   <label htmlFor="message">Message</label>
                   <textarea className="form-control" rows="5" id="message" value={this.state.message} onChange={this.onMessageChange.bind(this)} />
                 </div>
-                <button type="submit" className="btn btn-primary">Submit</button>
+                <button id="submit" type="submit" className="btn btn-primary">Submit</button>
               </form>
             </div>
           </div>
