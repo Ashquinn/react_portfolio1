@@ -26,8 +26,8 @@ Bootstrap
 
 ## Screenshots
 
-[Image1](src/assets/images/react_port1.png)
-[Image2](src/assets/images/react_port2.png)
+![Image1](src/assets/images/react_port1.png)
+![Image2](src/assets/images/react_port2.png)
 
 ## Questions       
 If you have any questions please contact me by email.
