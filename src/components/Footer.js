@@ -5,7 +5,7 @@ function Footer({ currentPage, handlePageChange }) {
     return (
         <footer className="text-center p-3">
     
-        © 2021 Site created with 💚 by Ashquinn Gordon
+        © 2021 Site created by Ashquinn Gordon
         
         </footer>
   );
