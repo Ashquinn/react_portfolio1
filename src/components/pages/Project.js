@@ -27,8 +27,10 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-              <a target="_blank" rel="noreferrer" href="https://github.com/AustinJoo97/MovieNightDoneRight" class="btn p-btn-color btn-lg custom-length-ps" role="button" aria-pressed="true"><b>GitHub </b><i class="fab fa-github-square"></i></a>
-              <a target="_blank" rel="noreferrer" href="https://austinjoo97.github.io/MovieNightDoneRight/" class="btn btn-secondary btn-lg custom-length-ss" role="button" aria-pressed="true"><i class="fas fa-window-maximize"></i></a>
+              <a class="deploy" rel="noreferrer" href="https://austinjoo97.github.io/MovieNightDoneRight/" target="_blank">
+                <i class="fas fa-external-link-alt"></i></a>
+              <a class="source" rel="noreferrer" href="https://github.com/AustinJoo97/MovieNightDoneRight" target="_blank">
+                <i class="fab fa-github-square"></i></a>
             </div>
           </div>
         </div>
@@ -36,15 +38,17 @@ export default function Projects() {
 
       <div class="col paddingTop">
         <div class="card h-100 customCard">
-          <img src={readMe} class="card-img-top group-img-height" alt="password_generator"/>
+          <img src={readMe} class="card-img-top group-img-height" alt="readme_generator"/>
           <div class="card-body group-card-body d-flex flex-column">
             <h3 class="card-title"><ins>README Generator</ins></h3>
             <p class="card-text h">This is a README generator that will produce a high quality readme.md file. Below are the links for the GitHub repository and webpage</p>
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-              <a target="_blank" rel="noreferrer" href="https://github.com/Ashquinn/README_Generator" class="btn p-btn-color btn-lg custom-length-ps" role="button" aria-pressed="true"><b>GitHub </b><i class="fab fa-github-square"></i></a>
-              <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=mPq9EpREpBE" class="btn btn-secondary btn-lg  custom-length-ss" role="button" aria-pressed="true"><i class="fas fa-window-maximize"></i></a>
+              <a class="deploy" rel="noreferrer" href="https://www.youtube.com/watch?v=mPq9EpREpBE" target="_blank"> 
+                <i class="fas fa-external-link-alt"></i></a>
+              <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/README_Generator" target="_blank">
+                <i class="fab fa-github-square"></i></a>
             </div>
           </div>
         </div>
@@ -59,8 +63,12 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-              <a target="_blank" rel="noreferrer" href="https://github.com/Ashquinn/team_management_system" class="btn p-btn-color btn-lg custom-length-ps" role="button" aria-pressed="true"><b>GitHub </b><i class="fab fa-github-square"></i></a>
-              <a target="_blank" rel="noreferrer" href="https://www.youtube.com/watch?v=ljr-IS-p2EI" class="btn btn-secondary btn-lg custom-length-ss" role="button" aria-pressed="true"><i class="fas fa-window-maximize"></i></a>
+            <a class="deploy" rel="noreferrer" href="https://www.youtube.com/watch?v=ljr-IS-p2EI" target="_blank">
+                        <i class="fas fa-external-link-alt"></i>
+                    </a>
+                    <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/team_management_system" target="_blank">
+                        <i class="fab fa-github-square"></i>
+                    </a>
             </div>
           </div>
         </div>
@@ -75,8 +83,12 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-              <a target="_blank" rel="noreferrer" href="https://github.com/Ashquinn/weather_app1" class="btn p-btn-color btn-lg custom-length-ps" role="button" aria-pressed="true"><b>GitHub </b><i class="fab fa-github-square"></i></a>
-              <a target="_blank" rel="noreferrer" href="https://ashquinn.github.io/weather_app1/" class="btn btn-secondary btn-lg custom-length-ss" role="button" aria-pressed="true"><i class="fas fa-window-maximize"></i></a>
+            <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/weather_app1/" target="_blank">
+                        <i class="fas fa-external-link-alt"></i>
+                    </a>
+                    <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/weather_app1" target="_blank">
+                        <i class="fab fa-github-square"></i>
+                    </a>
             </div>
           </div>
         </div>
@@ -91,8 +103,12 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-              <a target="_blank" rel="noreferrer" href="https://github.com/Ashquinn/password_generator" class="btn p-btn-color btn-lg custom-length-ps" role="button" aria-pressed="true"><b>GitHub </b><i class="fab fa-github-square"></i></a>
-              <a target="_blank" rel="noreferrer" href="https://ashquinn.github.io/password_generator/" class="btn btn-secondary btn-lg  custom-length-ss" role="button" aria-pressed="true"><i class="fas fa-window-maximize"></i></a>
+            <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/password_generator/" target="_blank">
+                        <i class="fas fa-external-link-alt"></i>
+                    </a>
+                    <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/password_generator" target="_blank">
+                        <i class="fab fa-github-square"></i>
+                    </a>
             </div>
           </div>
         </div>
@@ -107,8 +123,12 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-              <a target="_blank" rel="noreferrer" href="https://github.com/Ashquinn/work_day_scheduler" class="btn p-btn-color btn-lg custom-length-ps" role="button" aria-pressed="true"><b>GitHub </b><i class="fab fa-github-square"></i></a>
-              <a target="_blank" rel="noreferrer" href="https://ashquinn.github.io/work_day_scheduler/" class="btn btn-secondary btn-lg custom-length-ss" role="button" aria-pressed="true"><i class="fas fa-window-maximize"></i></a>
+            <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/work_day_scheduler/" target="_blank">
+                        <i class="fas fa-external-link-alt"></i>
+                    </a>
+                    <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/work_day_scheduler" target="_blank">
+                        <i class="fab fa-github-square"></i>
+                    </a>
             </div>
           </div>
         </div>
