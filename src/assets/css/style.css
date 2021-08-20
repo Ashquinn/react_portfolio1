@@ -109,6 +109,10 @@ form button {
     margin-top: 15px;
 }
 
+.row {
+    margin-bottom: calc(var(--bs-gutter-y) * 3)
+}
+
 
 .btn-primary {
     color: #fff;
@@ -120,6 +124,44 @@ form button {
     color: #fff;
     background-color: var(--purple-dark);
     border-color: var(--purple-dark);
+}
+
+.deploy {
+    padding: 0.2em 0.2em 0.2em 1em;
+    color: white;
+    background-color: #fcbb6d;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+    /* opacity: 75%; */
+}
+
+.deploy:hover {
+    padding: 0.2em 0.2em 0.2em 1em;
+    color:  #fcbb6d;
+    background-color: white;
+    border-style: solid;
+    border-width: .3px 0 .3px .3px;
+    border-top-left-radius: 1em;
+    border-bottom-left-radius: 1em;
+}
+
+.source {
+    padding: 0.2em 0.8em 0.2em 0.4em;
+    color: white;
+    background-color: rgb(31, 120, 192);
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
+    /* opacity: 75%; */
+}
+
+.source:hover {
+    padding: 0.2em 0.8em 0.2em 0.4em;
+    color:  rgb(31, 120, 192);
+    background-color: white;
+    border-style: solid;
+    border-width: .3px .3px .3px 0;
+    border-top-right-radius: 1em;
+    border-bottom-right-radius: 1em;
 }
 
 .hide {
