@@ -63,12 +63,10 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-            <a class="deploy" rel="noreferrer" href="https://www.youtube.com/watch?v=ljr-IS-p2EI" target="_blank">
-                        <i class="fas fa-external-link-alt"></i>
-                    </a>
-                    <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/team_management_system" target="_blank">
-                        <i class="fab fa-github-square"></i>
-                    </a>
+              <a class="deploy" rel="noreferrer" href="https://www.youtube.com/watch?v=ljr-IS-p2EI" target="_blank">
+                <i class="fas fa-external-link-alt"></i></a>
+              <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/team_management_system" target="_blank">
+                <i class="fab fa-github-square"></i></a>
             </div>
           </div>
         </div>
@@ -83,12 +81,10 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-            <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/weather_app1/" target="_blank">
-                        <i class="fas fa-external-link-alt"></i>
-                    </a>
-                    <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/weather_app1" target="_blank">
-                        <i class="fab fa-github-square"></i>
-                    </a>
+              <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/weather_app1/" target="_blank">
+                <i class="fas fa-external-link-alt"></i></a>
+              <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/weather_app1" target="_blank">
+                <i class="fab fa-github-square"></i></a>
             </div>
           </div>
         </div>
@@ -103,12 +99,10 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-            <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/password_generator/" target="_blank">
-                        <i class="fas fa-external-link-alt"></i>
-                    </a>
-                    <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/password_generator" target="_blank">
-                        <i class="fab fa-github-square"></i>
-                    </a>
+              <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/password_generator/" target="_blank">
+                <i class="fas fa-external-link-alt"></i></a>
+              <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/password_generator" target="_blank">
+                <i class="fab fa-github-square"></i></a>
             </div>
           </div>
         </div>
@@ -123,12 +117,10 @@ export default function Projects() {
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
-            <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/work_day_scheduler/" target="_blank">
-                        <i class="fas fa-external-link-alt"></i>
-                    </a>
-                    <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/work_day_scheduler" target="_blank">
-                        <i class="fab fa-github-square"></i>
-                    </a>
+              <a class="deploy" rel="noreferrer" href="https://ashquinn.github.io/work_day_scheduler/" target="_blank">
+                <i class="fas fa-external-link-alt"></i></a>
+              <a class="source" rel="noreferrer" href="https://github.com/Ashquinn/work_day_scheduler" target="_blank">
+                <i class="fab fa-github-square"></i></a>
             </div>
           </div>
         </div>
