@@ -12,9 +12,6 @@
 body {
     min-height: 100vh;
     background-color: var(--orange-accent);
-}
-
-body {
     height: 100% !important;
 }
   
@@ -67,23 +64,19 @@ h1{
     margin: 20px 20px 50px 20px;
     padding: 35px 20px 50px 20px;
     font-family: var(--font-family);
-    border-style: solid;
+    border-style: none;
     border-radius: 0.5rem;
+    color: var(--dark-accent);
+    background-color: white;
+    /* border: 1px solid; */
+    box-shadow: 10px 10px 20px -12px var(--dark-accent);
+
 }
 
 .main{
     padding-top: 75px;
 }
 
-footer {
-    width: 100%;
-    background-color: var(--dark-accent);
-    padding: 20px 20px 50px 20px;
-    color: var(--orange-accent);
-    position: fixed;
-    left: 0;
-    bottom: 0;
-}
 
 p {
     color: var(--purple-dark);
@@ -126,6 +119,22 @@ form button {
     border-color: var(--purple-dark);
 }
 
+.card{
+    box-shadow: 10px 10px 20px -12px var(--dark-accent);
+    border-style: none;
+}
+
+.card-title, .card-text{
+    color: var(--dark-accent);
+
+}
+
+.card-img-top {
+    width: 100%;
+    height: 40vh;
+    object-fit: cover;
+}
+
 .deploy {
     padding: 0.2em 0.2em 0.2em 1em;
     color: white;
@@ -162,6 +171,47 @@ form button {
     border-width: .3px .3px .3px 0;
     border-top-right-radius: 1em;
     border-bottom-right-radius: 1em;
+}
+
+.skills-header {
+    background-color: var(--dark-accent);
+    color: var(--orange-accent);
+}
+
+footer {
+    padding: 0;
+    text-align: center;
+    width: 100%;
+    background-color: var(--dark-accent);
+    position: fixed;
+    left: 0;
+    bottom: 0;
+}
+
+footer p{
+    color: var(--orange-accent);
+    margin-bottom: 10px;
+}
+
+.footerNav{
+    align-content: center;
+}
+
+.footerNav ul{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    margin-left: -16px;
+    list-style-type: none;
+}
+
+.footerNav ul li {
+    margin-right: 1em;
+    display: inline-block;
+}
+
+
+.footerNav a{
+    color: var(--orange-accent);
 }
 
 .hide {
