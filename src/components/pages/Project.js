@@ -41,7 +41,7 @@ export default function Projects() {
           <img src={readMe} class="card-img-top group-img-height" alt="readme_generator"/>
           <div class="card-body group-card-body d-flex flex-column">
             <h3 class="card-title"><ins>README Generator</ins></h3>
-            <p class="card-text h">This is a README generator that will produce a high quality readme.md file. Below are the links for the GitHub repository and webpage</p>
+            <p class="card-text h">This is a README generator running on <b>Node.js</b> that will produce a high quality readme.md file. Below are the links for the GitHub repository and webpage</p>
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
@@ -59,7 +59,7 @@ export default function Projects() {
           <img src={teamManage} class="card-img-top group-img-height" alt="team_manage"/>
           <div class="card-body group-card-body d-flex flex-column">
             <h3 class="card-title"><ins>Team Management System</ins></h3>
-            <p class="card-text">This is a Team Management System that runs on Node.js. Below are the links for the GitHub repository and webpage</p>
+            <p class="card-text">This is a Team Management System that runs on <b>Node.js.</b> Below are the links for the GitHub repository and webpage</p>
           </div>
           <div class="card-footer">
             <div class="text-center mt-auto">
@@ -76,7 +76,7 @@ export default function Projects() {
         <div class="card h-100 customCard">
           <img src={weatherApp} class="card-img-top group-img-height" alt="weather_app"/>
           <div class="card-body group-card-body d-flex flex-column">
-            <h3 class="card-title"><ins>Weather Dashboard</ins></h3>
+            <h3 class="card-title"><ins>Weather One</ins></h3>
             <p class="card-text">This is a weather dashboard made with <b class="moment">OpenWeather Api</b>! Below are the links for the GitHub repository and webpage</p>
           </div>
           <div class="card-footer">
